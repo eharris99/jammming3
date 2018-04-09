@@ -1,4 +1,4 @@
-const clientId = 'e6eb4a40bad540e3acdaf6fa6619aa03'; // Insert client ID here.
+const clientId = '0ad4065527964e05a41051faf00a13fb'; // Insert client ID here.
 const redirectUri = 'https://eharris99.github.io/jammming3'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
